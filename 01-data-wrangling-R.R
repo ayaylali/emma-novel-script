@@ -48,6 +48,7 @@ for (i in 1:length(emma)) {
   
 }
 
+
 #libraries needed for this
 library(tidyverse)
 # functon to get a messy character vector and returns paragraphs
